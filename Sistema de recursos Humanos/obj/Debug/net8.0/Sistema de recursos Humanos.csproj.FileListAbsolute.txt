@@ -1,0 +1,14 @@
+C:\Users\jozab\Documents\Visual Studio 2022\Sistema de recursos Humanos\bin\Debug\net8.0\Sistema de recursos Humanos.exe
+C:\Users\jozab\Documents\Visual Studio 2022\Sistema de recursos Humanos\bin\Debug\net8.0\Sistema de recursos Humanos.deps.json
+C:\Users\jozab\Documents\Visual Studio 2022\Sistema de recursos Humanos\bin\Debug\net8.0\Sistema de recursos Humanos.runtimeconfig.json
+C:\Users\jozab\Documents\Visual Studio 2022\Sistema de recursos Humanos\bin\Debug\net8.0\Sistema de recursos Humanos.dll
+C:\Users\jozab\Documents\Visual Studio 2022\Sistema de recursos Humanos\bin\Debug\net8.0\Sistema de recursos Humanos.pdb
+C:\Users\jozab\Documents\Visual Studio 2022\Sistema de recursos Humanos\obj\Debug\net8.0\Sistema de recursos Humanos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jozab\Documents\Visual Studio 2022\Sistema de recursos Humanos\obj\Debug\net8.0\Sistema de recursos Humanos.AssemblyInfoInputs.cache
+C:\Users\jozab\Documents\Visual Studio 2022\Sistema de recursos Humanos\obj\Debug\net8.0\Sistema de recursos Humanos.AssemblyInfo.cs
+C:\Users\jozab\Documents\Visual Studio 2022\Sistema de recursos Humanos\obj\Debug\net8.0\Sistema de recursos Humanos.csproj.CoreCompileInputs.cache
+C:\Users\jozab\Documents\Visual Studio 2022\Sistema de recursos Humanos\obj\Debug\net8.0\Sistema de recursos Humanos.dll
+C:\Users\jozab\Documents\Visual Studio 2022\Sistema de recursos Humanos\obj\Debug\net8.0\refint\Sistema de recursos Humanos.dll
+C:\Users\jozab\Documents\Visual Studio 2022\Sistema de recursos Humanos\obj\Debug\net8.0\Sistema de recursos Humanos.pdb
+C:\Users\jozab\Documents\Visual Studio 2022\Sistema de recursos Humanos\obj\Debug\net8.0\Sistema de recursos Humanos.genruntimeconfig.cache
+C:\Users\jozab\Documents\Visual Studio 2022\Sistema de recursos Humanos\obj\Debug\net8.0\ref\Sistema de recursos Humanos.dll
